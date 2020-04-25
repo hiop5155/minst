@@ -1,1 +1,1 @@
-# minst
+# minst_MLP
